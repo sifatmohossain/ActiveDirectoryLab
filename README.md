@@ -19,7 +19,7 @@ This repository contains steps on how I set up a basic home lab running the Acti
 <h2>Lab walk-through:</h2>
 
 <p align="Center">
-Diagram of the Lab: <br/>
+  <h2>Diagram of the Lab:</h2>
 <img src="https://i.imgur.com/RLMHsXF.png" height="60%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
